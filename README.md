@@ -26,16 +26,16 @@ A sleek and modern landing page inspired by Nike, designed to showcase products 
 
 Below are screenshots of the application in action:
 
-![Login Screen](./project-screenshot/01.png)
-![Registration Screen](./project-screenshot/02.png)
-![Chat Interface](./project-screenshot/03.png)
-![Chat Room Selection](./project-screenshot/04.png)
-![Chat Room Selection](./project-screenshot/05.png)
-![Chat Room Selection](./project-screenshot/06.png)
-![Chat Room Selection](./project-screenshot/07.png)
-![Chat Room Selection](./project-screenshot/08.png)
-![Chat Room Selection](./project-screenshot/09.png)
-![Chat Room Selection](./project-screenshot/10.png)
+![Login Screen](./project-ss/01.png)
+![Registration Screen](./project-ss/02.png)
+![Chat Interface](./project-ss/03.png)
+![Chat Room Selection](./project-ss/04.png)
+![Chat Room Selection](./project-ss/05.png)
+![Chat Room Selection](./project-ss/06.png)
+![Chat Room Selection](./project-ss/07.png)
+![Chat Room Selection](./project-ss/08.png)
+![Chat Room Selection](./project-ss/09.png)
+![Chat Room Selection](./project-ss/10.png)
 
 ---
 
